@@ -53,5 +53,5 @@
 *.prefab linguist-generated
 *.unity linguist-generated
 
+# Prevent GH from showing ASP as the language for the repo
 *.aspx linguist-vendored
-./**/*.aspx linguist-vendored

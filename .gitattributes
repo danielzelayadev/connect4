@@ -52,3 +52,5 @@
 *.meta linguist-generated
 *.prefab linguist-generated
 *.unity linguist-generated
+
+./**/*.aspx linguist-vendored
